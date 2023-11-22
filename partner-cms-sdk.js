@@ -3,3 +3,5 @@ window.CmsSdk = {
         console.log(name);
     }
 };
+
+console.log('sdk loaded');
