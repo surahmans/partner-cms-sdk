@@ -1,5 +1,5 @@
 window.CmsSdk = {
-    greet: function greet(name) {
+    greet: function(name) {
         console.log(name);
     }
 };
